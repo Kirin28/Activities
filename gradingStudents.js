@@ -1,5 +1,5 @@
 function gradingStudents(grades) {
-    let result= [];
+    let result = [];
     let finalGrade = 0;
     for (let i = 0; i < grades.length; i++) {
       let grade = grades[i];

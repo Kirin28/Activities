@@ -1,5 +1,4 @@
 //Challenge: Write a function that takes an array of integers as input and returns the maximum difference between any two elements in the array.
-//this code challenge was created by ChatGPT and I'm not sure it gave the correct instructions
 function maxDifference(arr) {
 let diff = 0;
 let newAr = [];
