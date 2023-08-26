@@ -12,6 +12,11 @@ return cumulative;
 
 }
 
+//shared value is changed based on the liked value:
+//shared = 5/2 * 3 = 6
+//shared = 6/2 * 3 = 9
+//shared = 9/2 * 3 = 12 etc
+
 console.log(viralAdvertising(5)); //24
 
 /* Function Description
